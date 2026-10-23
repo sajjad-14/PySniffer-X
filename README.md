@@ -26,7 +26,7 @@
 ### Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/PySniffer-X.git
+https://github.com/sajjad-14/PySniffer-X.git
 cd PySniffer-X
 
 # Install dependencies
